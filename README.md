@@ -17,6 +17,7 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
    in HomeForm class”
  - Below is a panel containing some labels welcoming you to the
    application.
+   
    ![home page](https://www.linkpicture.com/q/home_56.png)
 
 **About Us:** here you can get to know us more, you can see our aim, goals, and experience in this Feld.
@@ -27,6 +28,7 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
  - On the left side of the form is a normal collection of information
    about us “Real information by the way”, it is made up with label
    tool.
+   
    ![about us page](https://www.linkpicture.com/q/about-us_2.png)
 
 **Fleets:** here you can see the available ships with their names and their ratings according to star values.
@@ -36,14 +38,18 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
    navigation, but the new thing here is that left label “x-stars” and  
    middle label “M/Y X” are variable labels, they change each time the  
    image changes representing the rate and name of the Fleet.
+   
    ![fleet page 1](https://www.linkpicture.com/q/fleet-1.png)
+   
 ![fleet page 2](https://www.linkpicture.com/q/fleet-2.png)
+
 **Routes:** with routes you can see most of the recommended routes to dive in, they are selected carefully to fulfill the ambitions of each one visit it.
 
  - Routes form is the simplest one
  - It contains a collection of a different color accent panels, each
    panel contain picture for a certain place, in addition to a label
    informs us the name of the place
+   
    ![routes page](https://www.linkpicture.com/q/routes.png)
 
 **Register:** after this lovely tour throughout these sections, you can now register by filling some personal information, in addition to the preference in your vacation info, after choosing all your preferences, you can finally see the fees according to your plan.
@@ -54,14 +60,18 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
    information and Trip information)
  - After collecting the data properly, the lower panel will mange to
    show the collected data as a ticket like the following.
+   
    ![Registration page](https://www.linkpicture.com/q/Reg.png)
+   
  - You can choose your plan, then you will get the suitable fleet
    choices according to your plan, and visa versa, when you choose your
    fleet directly without referring to the plans, then the plan is auto
    selected according to the star rating of the fleet.
+   
    ![Registration page 2](https://www.linkpicture.com/q/reg-sutable.png)
 
 **The End:** The copywrites and a word written by the developer.
+
 ![the end page](https://www.linkpicture.com/q/the-end.png)
 
 ##   Engineering Ethics

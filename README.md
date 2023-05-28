@@ -41,7 +41,7 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
    
    ![fleet page 1](https://www.linkpicture.com/q/fleet-1.png)
    
-![fleet page 2](https://www.linkpicture.com/q/fleet-2.png)
+   ![fleet page 2](https://www.linkpicture.com/q/fleet-2.png)
 
 **Routes:** with routes you can see most of the recommended routes to dive in, they are selected carefully to fulfill the ambitions of each one visit it.
 

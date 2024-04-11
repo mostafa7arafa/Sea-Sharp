@@ -5,7 +5,7 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
 
 # UML Diagram
 
-![JSEA UML Diagram](https://www.linkpicture.com/q/Screenshot-2023-05-29-004125_1.png)
+![Screenshot 2023-05-29 004125](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/3f0a4024-8ee9-4121-a990-de6addfa9f10)
 
 ## Pages
 
@@ -18,7 +18,7 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
  - Below is a panel containing some labels welcoming you to the
    application.
    
-   ![home page](https://www.linkpicture.com/q/home_56.png)
+   ![home](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/cbee533a-e77c-4847-bad1-66f86f441adc)
 
 **About Us:** here you can get to know us more, you can see our aim, goals, and experience in this Feld.
 
@@ -29,7 +29,7 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
    about us “Real information by the way”, it is made up with label
    tool.
    
-   ![about us page](https://www.linkpicture.com/q/about-us_2.png)
+   ![about us](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/452e6627-1537-4a21-89ac-8b78e150961b)
 
 **Fleets:** here you can see the available ships with their names and their ratings according to star values.
 
@@ -38,10 +38,10 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
    navigation, but the new thing here is that left label “x-stars” and  
    middle label “M/Y X” are variable labels, they change each time the  
    image changes representing the rate and name of the Fleet.
-   
-   ![fleet page 1](https://www.linkpicture.com/q/fleet-1.png)
-   
-   ![fleet page 2](https://www.linkpicture.com/q/fleet-2.png)
+      
+![fleet 1](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/bb70ce7f-a96a-4e13-a26f-80d4ef72d060)
+
+![fleet 2](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/640ecb6e-e465-4c4a-a51a-0ff3f742f819)
 
 **Routes:** with routes you can see most of the recommended routes to dive in, they are selected carefully to fulfill the ambitions of each one visit it.
 
@@ -49,8 +49,8 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
  - It contains a collection of a different color accent panels, each
    panel contain picture for a certain place, in addition to a label
    informs us the name of the place
-   
-   ![routes page](https://www.linkpicture.com/q/routes.png)
+      
+![routes](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/4ba74d8e-4ed9-49ec-bc2b-153df2920898)
 
 **Register:** after this lovely tour throughout these sections, you can now register by filling some personal information, in addition to the preference in your vacation info, after choosing all your preferences, you can finally see the fees according to your plan.
 
@@ -60,19 +60,19 @@ Sea Sharp is a modern and intuitive application designed to assist tourists in f
    information and Trip information)
  - After collecting the data properly, the lower panel will mange to
    show the collected data as a ticket like the following.
-   
-   ![Registration page](https://www.linkpicture.com/q/Reg.png)
+
+   ![Reg](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/fbd61468-809d-4ec0-b637-c4fd1cc58e5a)
    
  - You can choose your plan, then you will get the suitable fleet
    choices according to your plan, and visa versa, when you choose your
    fleet directly without referring to the plans, then the plan is auto
    selected according to the star rating of the fleet.
-   
-   ![Registration page 2](https://www.linkpicture.com/q/reg-sutable.png)
+
+   ![reg sutable](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/00d8d70a-1c80-4ffc-bc14-6ef8095cb2e1)
 
 **The End:** The copywrites and a word written by the developer.
 
-![the end page](https://www.linkpicture.com/q/the-end.png)
+![the end](https://github.com/mostafa7arafa/Sea-Sharp/assets/58299212/f03acc5a-17f8-4b6c-baab-332811141efe)
 
 ##   Engineering Ethics
 
